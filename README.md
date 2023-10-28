@@ -1,2 +1,2 @@
 # thunder-gdae
-Projeto de eletrônica do foguete Thunder do Grupo de Desenvolvimento Aeroespacial GDAe - UFC
+Thunder rocket electronics project from the GDAe Aerospace Development Group - UFC
